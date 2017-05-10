@@ -74,14 +74,14 @@ function setupRobotEvents(robot) {
         k('left', 'up')
 
       if (y > 0.3)
-        k('up', 'down')
-      else
-        k('up', 'up')
-
-      if (y < -0.3)
         k('down', 'down')
       else
         k('down', 'up')
+
+      if (y < -0.3)
+        k('up', 'down')
+      else
+        k('up', 'up')
     }
 
     // buttons
