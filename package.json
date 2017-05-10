@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "beam-client-node": "^0.13.0",
+    "beam-interactive-node": "^0.3.2",
+    "robotjs": "^0.4.7"
+  }
+}

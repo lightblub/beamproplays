@@ -1,0 +1,4 @@
+module.exports = {
+  accessToken: /* https://dev.beam.pro/tutorials/interactive.html and scroll down to get access token (click link in nodejs code snippet) */,
+  channelId: /* https://beam.pro/api/v1/channels/USERNAME?fields=id */,
+}
